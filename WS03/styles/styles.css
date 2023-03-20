@@ -1,0 +1,37 @@
+body {
+    background-color: #fdddba;
+    color:black;
+    font-size: 12px;
+}
+h1{
+    font-size: 30px;
+    background-image: url("/WS03/Images/H1background2.jpg");
+    padding: 20px 70px 75px 75px;
+    text-align: center;
+    color: #C7FCEE;
+}
+h2{border: 3px solid #C7FCEE
+}
+p{
+    color: black;
+    font-size: 14px;
+}
+ul {
+    list-style: square;
+}
+ol {
+    list-style: lower-alpha;
+    background-image: image();
+}
+div.blue {
+    background-color: #aebefc;
+    height: 100px;
+    width: 100px;
+    border: 2px dotted white;
+}
+#bordered {
+    color: #717EB0;
+    border-style: dashed; 
+    border-radius: 30px;
+    padding: 5px 10px 5px 10px;
+}
