@@ -1,0 +1,124 @@
+body {
+    background-color: #fdddba;
+    color:black;
+    font-size: 12px;
+}
+h1{
+    font-size: 30px;
+    background-image: url("/WS06/Images/H1background2.jpg");
+    padding: 20px 70px 75px 75px;
+    text-align: center;
+    color: #C7FCEE;
+}
+#mainnav a:hover{color:red;}
+nav a {
+    text-decoration:none;
+}
+#mainnavlist{
+    display:block;
+    list-style-type: none;
+    background-color:#C7FCEE;
+    padding:10px;
+}
+.navi{
+    display:inline;
+    border:solid 3px aqua;
+    padding:5px 10px 5px 10px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+h2{border: 3px solid #C7FCEE
+}
+h3{color: purple;
+}
+.musta{color: black;
+}
+#otsikko3{color: rgb(248, 4, 248);
+}
+p{
+    color: black;
+    font-size: 12px;
+}
+ul {
+    list-style: square;
+}
+ol {
+    list-style: lower-alpha;
+    background-image: image();
+}
+div.blue {
+    background-color: #aebefc;
+    width: 100px;
+    height: 100px;
+    border: 2px dotted white;
+}
+div.blue1 {
+    background-color: #aebefc;
+    width: 100px;
+    border: 2px dotted white;
+    padding: 5px;
+}
+#bordered {
+    color: #717EB0;
+    border-style: dashed; 
+    border-radius: 30px;
+    padding: 5px 10px 5px 10px;
+    background-color: azure;
+}
+#div1 {
+    float:right;
+    background-color: #aebefc;
+    width: 40%;
+    height: 300px;
+    overflow: auto;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+#div2 {    
+    background-color: #aebefc;
+    width: 30%;
+    float:left;
+    padding:10px;
+    margin-bottom: 5px;
+}
+#linkkilista{
+    text-align: left;
+    list-style-type: none;
+    padding-left: 1px;
+}
+#linkit{
+    float:left;
+    width: 20%;
+    text-align: left;
+    margin-right: 5px;
+}
+.navi2{
+    padding-top:10px;
+}
+#ulkoisetlinkit a:active{color:red;}
+img#Meri {
+    height: 100px;
+}
+#margin{
+    clear:both;
+    margin:10px;
+    border: 2px solid black;
+}
+#testip2{
+    border:5px ridge purple;
+    margin: 5px 20px 5px 20px;
+    padding: 15px;
+}
+img#smile{
+    width: 100px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#footer{
+    clear:both;
+    background-color: lightgrey;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}
