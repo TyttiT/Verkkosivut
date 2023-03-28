@@ -44,7 +44,6 @@ ul {
 }
 ol {
     list-style: lower-alpha;
-    background-image: image();
 }
 div.blue {
     background-color: #aebefc;
