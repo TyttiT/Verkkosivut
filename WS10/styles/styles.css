@@ -37,12 +37,19 @@ h5{
 #taulukonotsikko {background-color: rgb(255, 241,230)}
 table, th, td {
     border: 1px solid black;
+
   }
   tr:nth-child(odd) {
     background-color: rgb(226,251,251);
   }
 
 .lomakeväri {background-color:rgb(255, 236, 221)}
+.lähetä {background-color: rgb(52, 124, 124);
+        border-color:  rgb(52, 124, 124);
+        }
+.lähetä:hover{background-color: rgb(207, 141, 86);
+border-color: rgb(207, 141, 86);
+border-color:  rgb(207, 141, 86);}
 
 .henkilö {border-radius: 50%;}
 .center {
@@ -50,7 +57,7 @@ table, th, td {
 }
 
 a:link { 
-    transition: all 5s linear;
+    transition: all 0.5s linear;
     color: rgb(52, 124, 124); 
     } 
 a:hover { 
